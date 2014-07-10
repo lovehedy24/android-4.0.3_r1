@@ -1,0 +1,1 @@
+cmd_/home/kain/Tiny210/driver/word_count.ko := arm-linux-ld -EL -r  -T /home/kain/Tiny210/linux/linux-3.0.8/scripts/module-common.lds --build-id  -o /home/kain/Tiny210/driver/word_count.ko /home/kain/Tiny210/driver/word_count.o /home/kain/Tiny210/driver/word_count.mod.o
